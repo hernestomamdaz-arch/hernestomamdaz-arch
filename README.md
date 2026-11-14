@@ -1,60 +1,57 @@
-<!-- Cambia hernestomamdaz-arch por tu usuario de GitHub y Morel por tu nombre -->
-
 <!-- BANNER -->
 <div align="center">
   <img src="banner.jpg" alt="Banner" width="100%" />
 </div>
 
-<!-- TEXTO ANIMADO -->
+<!-- TEXTO ANIMADO (estilo cyberpunk) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Me+encanta+crear+cosas+nuevas;Siempre+aprendiendo+algo+m%C3%A1s" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=05D9E8&background=0D022100&center=true&vCenter=true&width=640&lines=%3E+SYSTEM.BOOT()+...;%3E+BIENVENIDO+A+MI+PERFIL+%F0%9F%91%BE;%3E+USER%3A+MOREL+%2F%2F+ONLINE;%3E+HACKING+THE+FUTURE..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,50:7b2ff7,100:05d9e8&height=4&section=header" width="100%" alt="" />
 </div>
 
 <br/>
 
-## 👨‍💻 Sobre mí
+## `// SOBRE_MÍ`
 
-- 🔭 Actualmente trabajando en **tu proyecto actual**
-- 🌱 Aprendiendo **tecnología que estás aprendiendo**
-- 💬 Pregúntame sobre **tus temas favoritos**
-- 📍 Desde **tu ciudad, país**
-- ⚡ Dato curioso: **algo divertido sobre ti**
+```yaml
+usuario:   Morel
+estado:    ONLINE 🟢
+mision:    tu proyecto actual
+aprendiendo: tecnología que estás aprendiendo
+ubicacion: tu ciudad, país
+dato_random: algo divertido sobre ti
+```
 
-## 🛠️ Tecnologías
+## `// STACK_TECNOLÓGICO`
 
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tecnologías" />
 </div>
 
-## 📊 Estadísticas
+## `// ESTADÍSTICAS`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hernestomamdaz-arch&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernestomamdaz-arch&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hernestomamdaz-arch&show_icons=true&hide_border=false&border_color=ff2a6d&border_radius=12&bg_color=0d0221&title_color=ff2a6d&text_color=05d9e8&icon_color=f9f002" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernestomamdaz-arch&layout=compact&hide_border=false&border_color=ff2a6d&border_radius=12&bg_color=0d0221&title_color=ff2a6d&text_color=05d9e8" alt="Lenguajes" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernestomamdaz-arch&theme=tokyonight&hide_border=true" alt="Racha" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hernestomamdaz-arch&background=0D0221&border=FF2A6D&stroke=7B2FF7&ring=FF2A6D&fire=F9F002&currStreakNum=05D9E8&currStreakLabel=FF2A6D&sideNums=05D9E8&sideLabels=FF2A6D&dates=7B2FF7&border_radius=12" alt="Racha" />
 </div>
 
-## 📫 Contacto
+## `// CONTACTO`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hernestomamdaz-arch)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hernestomamdaz-arch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=05D9E8&labelColor=0D0221&color=05D9E8)](https://linkedin.com/in/hernestomamdaz-arch)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=FF2A6D&labelColor=0D0221&color=FF2A6D)](https://instagram.com/hernestomamdaz-arch)
+[![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=F9F002&labelColor=0D0221&color=F9F002)](mailto:tucorreo@ejemplo.com)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,50:7b2ff7,100:ff2a6d&height=100&section=footer" width="100%" alt="Footer" />
 </div>
