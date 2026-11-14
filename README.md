@@ -2,7 +2,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hola%2C%20soy%20Morel&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20%7C%20Creador%20%7C%20Aprendiz%20constante&descAlignY=58&descSize=18" alt="Banner" width="100%" />
+  <img src="banner.jpg" alt="Banner" width="100%" />
 </div>
 
 <!-- TEXTO ANIMADO -->
