@@ -17,13 +17,16 @@
 ## `// SOBRE_MÍ`
 
 ```yaml
-usuario:   Morel
-estado:    ONLINE 🟢
-lenguajes: Python, Rust, C++
-mision:    tu proyecto actual
-aprendiendo: tecnología que estás aprendiendo
-ubicacion: tu ciudad, país
-dato_random: algo divertido sobre ti
+usuario:    Morel
+estado:     ONLINE 🟢
+ubicacion:  Yucatán, México
+nivel:      novato en ciberseguridad // aprendiendo cada día
+mision:     ejecución de sistemas y proyectos de seguridad y privacidad
+lenguajes:  Python (automatizo mis herramientas), Rust, C++
+turno:      noches 🌙 // programas de seguridad
+setup:      Linux + terminal pura, VS Code a veces
+idiomas:    Español, Inglés
+frase:      "Tu mínimo es el máximo de alguien, pero no olvides que tu máximo es el mínimo de alguien"
 ```
 
 ## `// STACK_TECNOLÓGICO`
