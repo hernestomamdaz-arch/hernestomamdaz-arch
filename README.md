@@ -19,6 +19,7 @@
 ```yaml
 usuario:   Morel
 estado:    ONLINE 🟢
+lenguajes: Python, Rust, C++
 mision:    tu proyecto actual
 aprendiendo: tecnología que estás aprendiendo
 ubicacion: tu ciudad, país
@@ -28,7 +29,7 @@ dato_random: algo divertido sobre ti
 ## `// STACK_TECNOLÓGICO`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=py,rust,cpp&theme=dark" alt="Tecnologías" />
 </div>
 
 ## `// ESTADÍSTICAS`
@@ -46,8 +47,8 @@ dato_random: algo divertido sobre ti
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=05D9E8&labelColor=0D0221&color=05D9E8)](https://linkedin.com/in/hernestomamdaz-arch)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=FF2A6D&labelColor=0D0221&color=FF2A6D)](https://instagram.com/hernestomamdaz-arch)
+[![Instagram](https://img.shields.io/badge/Instagram-0D0221?style=for-the-badge&logo=instagram&logoColor=FF2A6D&labelColor=0D0221&color=FF2A6D)](https://instagram.com/TU_INSTAGRAM)
+[![TikTok](https://img.shields.io/badge/TikTok-0D0221?style=for-the-badge&logo=tiktok&logoColor=05D9E8&labelColor=0D0221&color=05D9E8)](https://tiktok.com/@TU_TIKTOK)
 [![Email](https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=F9F002&labelColor=0D0221&color=F9F002)](mailto:tucorreo@ejemplo.com)
 
 </div>
