@@ -48,8 +48,8 @@ frase:      "Tu mínimo es el máximo de alguien, pero no olvides que tu máximo
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-120A2E?style=for-the-badge&logo=instagram&logoColor=B9A6FF&labelColor=120A2E&color=2A1066)](https://instagram.com/celis_serafyn)
-[![TikTok](https://img.shields.io/badge/TikTok-120A2E?style=for-the-badge&logo=tiktok&logoColor=B9A6FF&labelColor=120A2E&color=2A1066)](https://tiktok.com/@TU_TIKTOK)
-[![Gmail](https://img.shields.io/badge/Gmail-120A2E?style=for-the-badge&logo=gmail&logoColor=B9A6FF&labelColor=120A2E&color=2A1066)](mailto:tucorreo@ejemplo.com)
+[![TikTok](https://img.shields.io/badge/TikTok-120A2E?style=for-the-badge&logo=tiktok&logoColor=B9A6FF&labelColor=120A2E&color=2A1066)](https://www.tiktok.com/@comedia_sf)
+[![Gmail](https://img.shields.io/badge/Gmail-120A2E?style=for-the-badge&logo=gmail&logoColor=B9A6FF&labelColor=120A2E&color=2A1066)](mailto:molycell24c@gmail.com)
 
 </div>
 
