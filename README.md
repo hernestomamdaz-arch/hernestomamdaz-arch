@@ -5,7 +5,7 @@
 
 <!-- TEXTO ANIMADO (estilo cyberpunk) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=800&color=05D9E8&background=0D022100&center=true&vCenter=true&width=640&lines=%3E+SYSTEM.BOOT()+...;%3E+BIENVENIDO+A+MI+PERFIL+%F0%9F%91%BE;%3E+USER%3A+MOREL+%2F%2F+ONLINE;%3E+HACKING+THE+FUTURE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1500&color=05D9E8&background=0D022100&center=true&vCenter=true&width=760&lines=La+grandeza+comienza+con+el+coraje+de+empezar" alt="Typing SVG" />
 </div>
 
 <div align="center">
