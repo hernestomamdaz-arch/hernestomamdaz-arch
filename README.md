@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2a6d,50:7b2ff7,100:05d9e8&height=4&section=header" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a1066,35:6a4cff,70:b9a6ff,100:f3eeff&height=4&section=header" width="100%" alt="" />
 </div>
 
 <br/>
@@ -57,5 +57,5 @@ frase:      "Tu mínimo es el máximo de alguien, pero no olvides que tu máximo
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05d9e8,50:7b2ff7,100:ff2a6d&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f3eeff,35:b9a6ff,70:6a4cff,100:2a1066&height=100&section=footer" width="100%" alt="Footer" />
 </div>
